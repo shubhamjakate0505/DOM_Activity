@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+.box{
+    border: 1px solid black;
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+    /* padding-top: 20px; */
+
+}
